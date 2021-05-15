@@ -1,0 +1,17 @@
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+}
+
+body{
+          padding: 60px;
+          font-family: sans-serif;
+}
+
+img{
+          height: 500px;
+          margin-top: 20px;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
